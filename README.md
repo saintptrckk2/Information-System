@@ -58,7 +58,7 @@ Make Sure you have the following Installed on you Machine.
 **Check Git if it's already Installed**
 
 ```bash
-git -v
+git clone https://github.com/saintptrckk2/Information-System.git
 ```
 
 **Make sure you have the following modification installed on a Visual Studio 2022:**
