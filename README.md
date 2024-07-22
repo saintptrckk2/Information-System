@@ -58,7 +58,7 @@ Make Sure you have the following Installed on you Machine.
 **Check Git if it's already Installed**
 
 ```bash
-git clone https://github.com/saintptrckk2/Information-System.git
+git -v
 ```
 
 **Make sure you have the following modification installed on a Visual Studio 2022:**
@@ -128,7 +128,7 @@ create table Admins(
 **Cloning the Project**
 
 ```bash
-!NOT YET!
+git clone https://github.com/saintptrckk2/Information-System.git
 ```
 
 **Make sure you have this NuGet Package installed on the project**
