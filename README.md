@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.facebook.com/saintptrckk" target="_blank">
-    <img src="https://github.com/saintptrckk2/Information-System/blob/main/photo/icon-modified.png" alt="icon-modified">
+    <img src="https://github.com/saintptrckk2/Information-System/blob/main/photo/icon-modified.png" alt="icon-modified border-radius="50px">
     </a>
   <br />
 
