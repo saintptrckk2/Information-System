@@ -129,6 +129,7 @@ create table Admins(
 
 ```bash
 git clone https://github.com/saintptrckk2/Information-System.git
+cd Information-System
 ```
 
 **Make sure you have this NuGet Package installed on the project**
