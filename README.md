@@ -136,7 +136,7 @@ git clone https://github.com/saintptrckk2/Information-System.git
 cd Information-System
 ```
 
-**Make sure you have this NuGet Package installed on the project**
+**Make sure you have this NuGet Package installed on the project**:
 
 - **QRCoder** by raffael Herrmann -v 1.6.0
 - **System.Data.SqlClient** by Microsoft -v 4.8.6
