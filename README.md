@@ -6,7 +6,7 @@
   <br />
 
   <div>
-    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Maloto <br /> Gwapo</h1>
+    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Malotog <br /> Gwapo</h1>
   </div>
 </div>
 
@@ -113,19 +113,19 @@ execute the following query:
 
 ```bash
 create table Pupils(
-	LRN INT PRIMARY KEY,
-	Firstname NVARCHAR(50),
-	Lastname NVARCHAR(50),
-	GradeLevel NVARCHAR(10),
-	Section NVARCHAR(10),
-	ContactNumber NVARCHAR(15),
-	Picture VARBINARY(max)
+  LRN INT PRIMARY KEY,
+  Firstname NVARCHAR(50),
+  Lastname NVARCHAR(50),
+  GradeLevel NVARCHAR(10),
+  Section NVARCHAR(10),
+  ContactNumber NVARCHAR(15),
+  Picture VARBINARY(max)
 );
 
 create table Admins(
-    AdminId INT PRIMARY KEY,
-    Username NVARCHAR(15),
-    Password NVARCHAR(15)
+  AdminId INT PRIMARY KEY,
+  Username NVARCHAR(15),
+  Password NVARCHAR(15)
 );
 ```
 
