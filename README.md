@@ -2,14 +2,12 @@
   <br />
     <a href="https://www.facebook.com/saintptrckk" target="_blank">
     <img src="https://github.com/saintptrckk2/Information-System/blob/main/photo/icon-modified.png" alt="icon-modified">
+    </a>
   <br />
 
-    <h1 align="center">
-        Baluarte Elementary School Information System
-        </ br>
-        by Patrick Padilla Maloto Gwapo(Handsome in English)
-    </h1>
-
+  <div>
+    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Malotp <br /> Gwapo</h1>
+  </div>
 </div>
 
 ## 📋 <a name="table"> Table of Contents </a>
