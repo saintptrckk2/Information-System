@@ -1,8 +1,5 @@
-
-  <div>
-    
-    <h1 align="center"><a link ="https://www.facebook.com/saintptrckk/"> Information System <br /> by <br /> Patrick Padilla Maloto </a></h1>
-  
+ <div>
+    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Maloto</h1>
 </div>
 
 ## 📋 <a name="table"> Table of Contents </a>
