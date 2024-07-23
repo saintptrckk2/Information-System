@@ -23,8 +23,8 @@ A Pupil information System that can easily manage Pupil's information featuring 
 ## <a name ="tech-stack"> ⚙️ Tech Stack </a>
 
 - Visual Studio Community 2022
-- Sql Server Express
-- Sql Server Management Studio (SSMS)
+- SQL Server Express
+- SQL Server Management Studio (SSMS)
 
 ## <a name ="features"> 🔋 Features </a>
 
