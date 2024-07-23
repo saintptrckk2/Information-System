@@ -1,13 +1,6 @@
-<div align="center">
-  <br />
-    <a href="https://www.facebook.com/saintptrckk" target="_blank">
-    <img src="https://github.com/saintptrckk2/Information-System/blob/main/photo/icon-modified.png" alt="icon-modified border-radius="50px">
-    </a>
-  <br />
 
   <div>
-    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Maloto <br /> Gwapo</h1>
-  </div>
+    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Maloto</h1>
 </div>
 
 ## 📋 <a name="table"> Table of Contents </a>
