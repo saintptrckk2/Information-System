@@ -6,7 +6,7 @@
   <br />
 
   <div>
-    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Malotog <br /> Gwapo</h1>
+    <h1 align="center"> Information System <br /> by <br /> Patrick Padilla Maloto <br /> Gwapo</h1>
   </div>
 </div>
 
